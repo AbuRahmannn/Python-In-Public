@@ -19,11 +19,11 @@ This repository is a log of my daily progress, code, insights, and reflections a
 
 ## 📅 Challenge Progress Tracker
 
-| Day | Topics Covered | Code Link |
+| Day | Topics Covered |
 |-----|----------------|-----------|
 | ✅ Day 01 | Variables, Typecasting, User Input & program on these |
-| ⏳ Day 02 | Coming soon... | -- |
-| ... | ... | ... |
+| ⏳ Day 02 | Coming soon... |
+| ... | ... |
 
 > ✅ Completed & committed  
 > ⏳ In progress  
