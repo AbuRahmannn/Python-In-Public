@@ -21,7 +21,7 @@ This repository is a log of my daily progress, code, insights, and reflections a
 
 | Day | Topics Covered | Code Link |
 |-----|----------------|-----------|
-| ✅ Day 01 | Variables, Typecasting, User Input & program on these | [Day 01](./Day01/day01.py) |
+| ✅ Day 01 | Variables, Typecasting, User Input & program on these | [[Day 01](./Day01/day01.py)](https://github.com/AbuRahmannn/Python-In-Public) |
 | ⏳ Day 02 | Coming soon... | ... |
 
 > ✅ Completed & committed  
