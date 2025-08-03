@@ -24,7 +24,8 @@ This repository is a log of my daily progress, code, insights, and reflections a
 | ✅ Day 01 | Variables, Typecasting, User Input & program on these | (https://github.com/AbuRahmannn/Python-In-Public) |
 | ✅ Day 02 | madlib_game, arithematic operation, import math, if, elif, else, calculator using if statements | ,, |
 | ✅ Day 03 | KG ↔️ Pounds converter, Logical operators: and, or, not, Conditional expressions in action | ,, |
-| ⏳ Day 04 | Coming soon... | - |
+| ✅ Day 04 | working with strings  | ,, |
+| ⏳ Day 05 | Coming soon... | - |
 
 > ✅ Completed & committed  
 > ⏳ In progress  
