@@ -26,7 +26,8 @@ This repository is a log of my daily progress, code, insights, and reflections a
 | ✅ Day 03 | KG ↔️ Pounds converter, Logical operators: and, or, not, Conditional expressions in action | ,, |
 | ✅ Day 04 | working with strings  | ,, |
 | ✅ Day 05 | String Indexing  | ,, |
-| ⏳ Day 06 | Coming soon... | - |
+| ✅ Day 06 | format specifier | - |
+| ⏳ Day 07 | Coming soon... | - |
 
 > ✅ Completed & committed  
 > ⏳ In progress  
