@@ -27,8 +27,8 @@ This repository is a log of my daily progress, code, insights, and reflections a
 | ✅ Day 04 | working with strings  | ,, |
 | ✅ Day 05 | String Indexing  | ,, |
 | ✅ Day 06 | format specifier | ,, |
-| ✅ Day 08 | for loops nested loops while loops or in while | ,, |
-| ⏳ Day 07 | coding soon | - |
+| ✅ Day 07 | for loops nested loops while loops or in while | ,, |
+| ⏳ Day 08 | coding soon | - |
 
 > ✅ Completed & committed  
 > ⏳ In progress  
