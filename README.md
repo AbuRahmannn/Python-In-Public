@@ -31,7 +31,8 @@ This repository is a log of my daily progress, code, insights, and reflections a
 | ✅ Day 08 | set & tuple | ,, |
 | ✅ Day 09 | 2d lists, keypad pattern usind 2D, quiz using upto date topics & dicts | ,, |
 | ✅ Day 10 | program using dicts (confession stand) | ,, |
-| ⏳ Day 11 | coding soon | - |
+| ✅ Day 11 | random, guess a random number(problem) | ,, |
+| ⏳ Day 12 | coding soon | - |
 
 > ✅ Completed & committed  
 > ⏳ In progress  
