@@ -32,7 +32,8 @@ This repository is a log of my daily progress, code, insights, and reflections a
 | ✅ Day 09 | 2d lists, keypad pattern usind 2D, quiz using upto date topics & dicts | ,, |
 | ✅ Day 10 | program using dicts (confession stand) | ,, |
 | ✅ Day 11 | random, Built a Dice Number Guessing Game 🎲 | ,, |
-| ⏳ Day 12 | coding soon | - |
+| ✅ Day 12 | functions | ,, |
+| ⏳ Day 13 | upcomming | - |
 
 > ✅ Completed & committed  
 > ⏳ In progress  
