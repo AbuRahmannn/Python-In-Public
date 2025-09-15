@@ -33,7 +33,8 @@ This repository is a log of my daily progress, code, insights, and reflections a
 | ✅ Day 10 | program using dicts (confession stand) | ,, |
 | ✅ Day 11 | random, Built a Dice Number Guessing Game 🎲 | ,, |
 | ✅ Day 12 | functions | ,, |
-| ⏳ Day 13 | upcomming | - |
+| ✅ Day 13 | write files mode = w,x,a | ,, |
+| ⏳ Day 14 | upcomming | - |
 
 > ✅ Completed & committed  
 > ⏳ In progress  
