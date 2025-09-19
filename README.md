@@ -1,6 +1,6 @@
-# 🐍 Python In Public – My 100 Days of Python Journey
+# 🐍 Python In Public – My Python Journey
 
-Welcome to my **#100DaysOfPython** journey — where I’m learning Python by doing, sharing, and building in public.  
+Welcome to my **#MyPython** journey — where I’m learning Python by doing, sharing, and building in public.  
 This repository is a log of my daily progress, code, insights, and reflections as I dive deeper into the world of Python programming. 🌍✨
 
 ---
@@ -17,7 +17,7 @@ This repository is a log of my daily progress, code, insights, and reflections a
 
 ---
 
-## 📅 Challenge Progress Tracker
+## 📅 Progress Tracker
 
 | Day | Topics Covered | Code Link |
 |-----|----------------|-----------|
@@ -58,6 +58,7 @@ This repository is a log of my daily progress, code, insights, and reflections a
 - Exception Handling
 - Built-in Libraries (`math`, `random`, `datetime`)
 - Real-World Mini Projects
+- DSA
 etc
 
 ---
