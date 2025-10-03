@@ -36,7 +36,8 @@ This repository is a log of my daily progress, code, insights, and reflections a
 | ✅ Day 13 | write files mode = w,x,a | ,, |
 | ✅ Day 14 | Arrays DSA | ,, |
 | ✅ Day 15 | Arrays DSA | ,, |
-| ⏳ Day 16 | upcomming | - |
+| ✅ Day 16 | NumPy | ,, |
+| ⏳ Day 17 | upcomming | - |
 
 > ✅ Completed & committed  
 > ⏳ In progress  
