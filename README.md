@@ -60,6 +60,7 @@ This repository is a log of my daily progress, code, insights, and reflections a
 - Built-in Libraries (`math`, `random`, `datetime`)
 - Real-World Mini Projects
 - DSA
+- LIB
 etc
 
 ---
